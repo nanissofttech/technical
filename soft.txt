@@ -1,1 +1,2 @@
 this is a new organization
+added few lines in the soft.txt
